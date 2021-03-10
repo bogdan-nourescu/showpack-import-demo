@@ -1,0 +1,18 @@
+{
+  "name": "webapp-frontend",
+  "version": "2.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "devserver-snow": "snowpack dev"
+  },
+  "keywords": [],
+  "author": "CBN IT",
+  "license": "Commercial",
+  "devDependencies": {
+    "snowpack": "^3.0.13"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "1.5.0"
+  }
+}
